@@ -1,0 +1,23 @@
+{
+  "name": "mario-kart-dio",
+  "version": "1.0.0",
+  "description": "Um projeto em node.js para criar a mecânica do mario kart no terminal node!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luan-henrique-consani/mario-kart-dio.git"
+  },
+  "keywords": [
+    "mario",
+    "kart"
+  ],
+  "author": "Luan Henrique Consani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luan-henrique-consani/mario-kart-dio/issues"
+  },
+  "homepage": "https://github.com/luan-henrique-consani/mario-kart-dio#readme"
+}
